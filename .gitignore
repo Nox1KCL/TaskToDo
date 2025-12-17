@@ -1,0 +1,19 @@
+# IDE settings
+.idea/
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# PyInstaller / Distribution
+build/
+dist/
+*.spec
+
+# Local data
+data.json
+
+# Python bytecode
+__pycache__/
+*.py[cod]
