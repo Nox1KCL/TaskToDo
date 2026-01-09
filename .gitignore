@@ -17,3 +17,7 @@ data.json
 # Python bytecode
 __pycache__/
 *.py[cod]
+
+tasks.json
+data.json
+.vscode
